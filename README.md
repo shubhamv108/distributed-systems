@@ -8,3 +8,7 @@ https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HDFSErasu
 
 #### Microsoft Research
 http://lamport.azurewebsites.net/pubs/pubs.html
+
+
+#### pBFT
+https://www.geeksforgeeks.org/practical-byzantine-fault-tolerancepbft/
